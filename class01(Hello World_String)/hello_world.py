@@ -1,4 +1,4 @@
-name: list[str] = ['a', 'b', 'c', 4]
+name: list[str] = ['a', 'b', 'c']
 print(name)
 print(type(name))
 print(id(name))
